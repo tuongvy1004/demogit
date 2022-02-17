@@ -10,4 +10,9 @@ public class Vehicle {
     public void moveOnStreet(){
 
     };
+    public void numberOfSeat(){
+        System.out.println("Number of seat: 4");
+    }
+
+
 }

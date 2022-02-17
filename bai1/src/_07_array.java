@@ -26,5 +26,8 @@ public class _07_array {
             }
         }
 
+        int i =1;
+        System.out.println(i++);
+        System.out.println(++i);
     }
 }

@@ -12,6 +12,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         // takes input from the keyboard, dung nextLine đọc văn bản
         String inputString = scanner.nextLine();
+
         if (inputString.equals("Visa")){
             paymentGateway = new VisaCard();
         }
